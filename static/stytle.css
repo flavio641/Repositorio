@@ -179,3 +179,18 @@
     }
   }
 
+  *::-webkit-scrollbar{
+    width: 15px
+  }
+
+  *::-webkit-scrollbar-track{
+    width: 12px;
+    box-shadow: inset 0 0 .3rem #00000050;
+    background-color: #ffff;
+  }
+
+  * ::-webkit-scrollbar-thumb{
+    background-color: #252c90;
+    border-radius: 20%;
+  }
+
