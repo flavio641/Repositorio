@@ -240,3 +240,17 @@
   left: -9px;
   border-radius: 50%;
 }
+
+.carousel-control-prev{
+  margin-left: -10px;
+  color: #ffff;
+
+}
+.carousel-control-next{
+  margin-right: -10px;
+  color: #ffff;
+}
+.carousel-indicators{
+  margin-bottom: -35px;
+  
+}
