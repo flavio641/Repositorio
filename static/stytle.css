@@ -91,10 +91,11 @@
 
   #main{
     margin-left: 300px;
+    
   }
 
   section#inicio{
-    background-image: url(../static/img/imagem\ datascience.jpg);
+    background-image: url(../static/img/Negócios\ \(10\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -105,7 +106,7 @@
 
   section#inicio h2{
     font-size: 4rem;
-    color: #ffff;
+    color: #252c90
 
   }
 
@@ -119,7 +120,7 @@
 
   #inicio span#sub-title{
     margin-left: 25px;
-    color: #ffff;
+    color:#252c90;
   }
 
   section#inicio div#arraste{
