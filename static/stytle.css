@@ -72,6 +72,9 @@
     padding-right: 0.8rem;
     color: #6f7180;
   }
+  .container{
+    max-width: 900px;
+  }
 
   .nav-menu a:hover,
   .nav-menu .active,
